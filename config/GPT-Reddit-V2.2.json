@@ -39,7 +39,7 @@
 
     "data_train_set": "gs://gpt-j-train/datasets/comments_2018*.tfrecords",
 
-    "ckpt_dir": "gs://gpt-j-train/GPT-Reddit-output-V2.2/",
+    "ckpt_dir": "gs://gpt-j-train/GPT-Reddit-output-V2.1/step_5070/",
     "ckpt_every": 1000,
     "ckpt_attempt": 0,
 
