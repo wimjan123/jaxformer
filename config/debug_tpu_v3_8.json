@@ -35,7 +35,7 @@
     "opt_per_replica_batch": 1,
     "opt_params_partitions": 1,
 
-    "data_train_set": "gs://sfr-tpu-us-east1-research/enijkamp/jaxformer/datasets/thepile/train/*.tfrecords",
+    "data_train_set": "gs://gpt-j-train/datasets/comments_2018*.tfrecords",
 
     "ckpt_dir": "gs://sfr-tpu-us-east1-research/enijkamp/jaxformer/checkpoints/debug_tpu_v4_8",
     "ckpt_every": 10000,
