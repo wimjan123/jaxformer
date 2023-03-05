@@ -43,8 +43,7 @@
     "restore_ckpt": "gs://gpt-j-train/GPT-Reddit-output-V2.1",
     "ckpt_every": 1000,
     "ckpt_attempt": 0,
-    "restore_step": "step_5070",
-    "ckpt_step": 0,
+    "restore_step": 5070,
 
     "wandb_enabled": true,
     "wandb_project": "gpt-reddit-v2.2",
