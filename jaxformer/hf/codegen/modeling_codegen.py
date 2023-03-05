@@ -30,7 +30,7 @@ from .configuration_codegen import CodeGenConfig
 
 logger = logging.get_logger(__name__)
 
-_CHECKPOINT_FOR_DOC = "Salesforce/codegen-2B-mono"
+_CHECKPOINT_FOR_DOC = "Salesforce/codegen-2Bd-mono"
 _CONFIG_FOR_DOC = "CodeGenConfig"
 _TOKENIZER_FOR_DOC = "GPT2Tokenizer"
 
