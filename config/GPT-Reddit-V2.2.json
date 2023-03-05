@@ -39,11 +39,9 @@
 
     "data_train_set": "gs://gpt-j-train/datasets/comments_2018*.tfrecords",
 
-    "ckpt_dir": "gs://gpt-j-train/GPT-Reddit-output-V2.2/",
-    "restore_ckpt": "gs://gpt-j-train/GPT-Reddit-output-V2.1",
+    "ckpt_dir": "gs://gpt-j-train/GPT-Reddit-output-V2.sdfsdf2/",
     "ckpt_every": 1000,
     "ckpt_attempt": 0,
-    "restore_step": 5070,
 
     "wandb_enabled": true,
     "wandb_project": "gpt-reddit-v2.2",
