@@ -1,9 +1,9 @@
 {
     "debug_mock_data": false,
     "debug_emulate_tpu_on_cpu": false,
-    "debug_run_local": false,
+    "debug_run_local": true,
 
-    "tpu_user": "erik.nijkamp",
+    "tpu_user": "wvisser",
     "tpu_version": 4,
     "tpu_image": "v2-alpha-tpuv4",
     "tpu_size": 8,
@@ -11,7 +11,7 @@
     "tpu_spawn": false,
     "tpu_reserved": false,
     "tpu_create_env": false,
-    "tpu_name": "gpt-training",
+    "tpu_name": "gpt-training", 
     "tpu_zone": "us-central2-b",
     "tpu_worker_port": 10000,
     "tpu_internal_ips": false,
