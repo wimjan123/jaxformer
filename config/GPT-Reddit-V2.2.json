@@ -11,7 +11,7 @@
     "tpu_spawn": false,
     "tpu_reserved": false,
     "tpu_create_env": false,
-    "tpu_name": "sfr-{tpu_user}-tpu-v{tpu_version}-{tpu_size}-{tpu_zone}-1",
+    "tpu_name": "gpt-training",
     "tpu_zone": "us-central2-b",
     "tpu_worker_port": 10000,
     "tpu_internal_ips": false,
