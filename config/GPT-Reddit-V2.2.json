@@ -45,7 +45,7 @@
 
     "wandb_enabled": true,
     "wandb_project": "gpt-reddit-v2.2",
-    "wandb_entity": "",
+    "wandb_entity": "thewillonline",
     "wandb_group": "debug",
     "wandb_name": "gpt-reddit-v2.2"
 }
