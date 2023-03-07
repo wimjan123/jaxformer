@@ -1,18 +1,18 @@
 {
     "debug_mock_data": true,
     "debug_emulate_tpu_on_cpu": false,
-    "debug_run_local": true,
+    "debug_run_local": false,
 
     "tpu_user": "william.visser",
     "tpu_version": 4,
     "tpu_image": "v2-alpha-tpuv4",
-    "tpu_size": 16,
+    "tpu_size": 32, 
     "tpu_delete": true,
     "tpu_spawn": true,
     "tpu_reserved": false,
     "tpu_create_env": true,
     "tpu_name": "sfr-{tpu_user}-tpu-v{tpu_version}-{tpu_size}-{tpu_zone}-1",
-    "tpu_zone": "us-central-2b",
+    "tpu_zone": "us-central2-b",
     "tpu_worker_port": 10000,
     "tpu_internal_ips": false,
     
