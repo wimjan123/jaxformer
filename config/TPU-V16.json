@@ -17,7 +17,7 @@
     "tpu_subnetwork": "default",
     "tpu_worker_port": 10000,
     "tpu_tags": "tpu-vm",
-    "tpu_internal_ips": true,
+    "tpu_internal_ips": false,
     
     "model_type": "decoder",
     "model_sharding": "inter",
