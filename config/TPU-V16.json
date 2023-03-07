@@ -7,7 +7,7 @@
     "tpu_version": 4,
     "tpu_image": "v2-alpha-tpuv4",
     "tpu_size": 32, 
-    "tpu_delete": false,
+    "tpu_delete": true,
     "tpu_spawn": true,
     "tpu_reserved": false,
     "tpu_create_env": true,
